@@ -152,6 +152,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGBTAUBO
 
+[Document7]
+DocumentPath=DIOT-mini-backplane.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=EFAA6316-0801-4A67-9269-5467AEC69B73
 Description=Full
@@ -177,14 +194,18 @@ Name=Variant_
 Value=Default
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DIOT_Backplane\Design Rule Check - DIOT_Backplane.html
+DocumentPath=Project Outputs for DIOT-mini-backplane\Design Rule Check - DIOT-mini-backplane.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for EEM_DIOT_Micro_Backplane\Design Rule Check - EEM_DIOT_Micro_Backplane.html
+DocumentPath=Project Outputs for DIOT_Backplane\Design Rule Check - DIOT_Backplane.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for EEM_DIOT_Micro_Backplane\Design Rule Check - EEM_DIOT_Micro_Backplane.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Prod\ExportSTEP\DIOT_Backplane_v1([No Variations]).step
 DItemRevisionGUID=
 
@@ -901,6 +922,7 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
 
 [Difference Levels]
 Type1=1
@@ -984,6 +1006,7 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1140,6 +1163,13 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWE

@@ -1,5 +1,3 @@
 Record=TopLevelDocument|FileName=DIOT-mini-backplane.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=DIOT-mini-backplane.SchDoc|Designator=Peripheral Slot 1|SchDesignator=Peripheral Slot 1|FileName=Slot_periph.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Slot_periph.SchDoc|DesignItemId= |SourceLibraryName=Slot_periph.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=DIOT-mini-backplane.SchDoc|Designator=U_LVDS_EEM0|SchDesignator=U_LVDS_EEM0|FileName=EEM_Connectors.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=EEM_Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=DIOT-mini-backplane.SchDoc|FileName=Slot_1.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=DIOT-mini-backplane.SchDoc|FileName=Slot_1b.SchDoc|SheetNumber=3
