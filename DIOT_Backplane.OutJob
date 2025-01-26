@@ -21,7 +21,7 @@ TargetOutputMedium=Production Files
 VariantName=Default
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother DCP-1610W series Printer
+TargetPrinter=HP Universal Printing PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -137,7 +137,7 @@ OutputEnabled5_OutputMedium4=0
 OutputEnabled5_OutputMedium5=0
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#18=Name:SMD,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#19=Name:Manufacturer1 Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#20=Name:Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#21=Name:CreateDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#22=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#23=Name:HelpURL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#24=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#25=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#26=Name:Socket,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#27=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#28=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#29=Name:Manufacturer1 ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#30=Name:Author,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#31=Name:Mounted,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#32=Name:Manufacturer1 Example,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#33=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#34=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#35=Name:Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#36=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#37=Name:Part Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#38=Name:PressFit,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#39=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#40=Name:TC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#41=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#42=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#43=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#44=Name:Sense,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#45=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#46=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:True,Sort:None,Position:27,Type:0|DocumentPath=D:\DESIGNS\SINARA\DIOT_Backplane\DIOT_Backplane.pcbdoc
+Configuration5_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:Ascending,SortIndex:0,Position:0|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#18=Name:SMD,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#19=Name:Manufacturer1 Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#20=Name:Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#21=Name:CreateDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#22=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#23=Name:HelpURL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#24=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#25=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#26=Name:Socket,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#27=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#28=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#29=Name:Manufacturer1 ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#30=Name:Author,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#31=Name:Mounted,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#32=Name:Manufacturer1 Example,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#33=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#34=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#35=Name:Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#36=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#37=Name:Part Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#38=Name:PressFit,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#39=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#40=Name:TC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#41=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#42=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#43=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#44=Name:Sense,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#45=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#46=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:True,Sort:None,Position:27,Type:0|Column#47=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#48=Name:Bonding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#49=Name:ClassName,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|DocumentPath=C:\Users\spider\OneDrive\PT1000\DIOT-mini-backplane\DIOT-mini-backplane.pcbdoc
 OutputType6=Gerber
 OutputName6=Gerber Files
 OutputCategory6=Fabrication
@@ -182,15 +182,17 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration8_Name1=ColumnNameFormat
 Configuration8_Item1=CaptionAsName
 Configuration8_Name2=General
-Configuration8_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1646|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration8_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=2096|FormHeight=1540|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration8_Name3=GroupOrder
 Configuration8_Item3=Comment=True|Footprint=True
 Configuration8_Name4=OutputConfigurationParameter1
 Configuration8_Item4=??
 Configuration8_Name5=SortOrder
-Configuration8_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration8_Item5=Designator=Up
 Configuration8_Name6=VisibleOrder
-Configuration8_Item6=Comment=100|Description=100|Designator=100|Footprint=100|Manufacturer=100|Manufacturer Part Number=100|Manufacturer1 ComponentHeight=100|Manufacturer1 Example=100|Manufacturer1 Part Number=100|Part Description=100|Part Number=100|Quantity=100
+Configuration8_Item6=Part Number=363|Designator=100|Footprint=169|Manufacturer=164|Quantity=100|Part Description=709
+Configuration8_Name7=VisibleOrder_Flat
+Configuration8_Item7=Part Number=363|Designator=100|Footprint=169|Manufacturer=164|Quantity=100|Part Description=709
 OutputType9=Board Stack Report
 OutputName9=Report Board Stack
 OutputCategory9=Fabrication
@@ -206,20 +208,6 @@ OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=LayerStackReportView|Units=Metric|DocumentPath=D:\DIOT\Backplane\Main_Backplane\MB_v2\EDA-04211-V2.PcbDoc
-OutputType10=ODB
-OutputName10=ODB++ Files
-OutputCategory10=Fabrication
-OutputDocumentPath10=DIOT_Backplane.pcbdoc
-OutputVariantName10=
-OutputEnabled10=0
-OutputEnabled10_OutputMedium1=0
-OutputEnabled10_OutputMedium2=0
-OutputEnabled10_OutputMedium3=0
-OutputEnabled10_OutputMedium4=0
-OutputEnabled10_OutputMedium5=1
-OutputDefault10=0
-Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=False|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotTopLayerPlot=False|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Imperial|DocumentPath=D:\DIOT\Backplane\EDA-04211-V2\EDA-04211-V2.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=D:\Dropbox\DESIGNS\MTCA_projects\SINARA\ARTIQ_ALTIUM\EEMs\Sampler\PCB\Project Outputs for Sampler\Sampler.PDF
@@ -249,7 +237,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\DIOT\Backplane\EDA-04211-V2\Project Outputs for EDA-04211-V2\
+OutputFilePath3=C:\Users\spider\OneDrive\PT1000\DIOT-mini-backplane\Project Outputs for EDA-04211-V2 \
 ReleaseManaged3=0
 OutputBasePath3=Project Outputs for EDA-04211-V2\
 OutputPathMedia3=
@@ -264,7 +252,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for DIOT_Backplane
+OutputBasePath4=Project Outputs for DIOT-mini-backplane
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -316,14 +304,14 @@ OpenOutput5=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=D:\Dropbox\DESIGNS\MTCA_projects\SINARA\ARTIQ_ALTIUM\EEMs\Sampler\PCB\Project Outputs for Sampler\Sampler.PDF
 OpenOutputs2=1
-RelativeOutputPath3=D:\DIOT\Backplane\EDA-04211-V2\Project Outputs for EDA-04211-V2\
+RelativeOutputPath3=C:\Users\spider\OneDrive\PT1000\DIOT-mini-backplane\Project Outputs for EDA-04211-V2 \
 OpenOutputs3=0
 AddToProject3=0
-TimestampFolder3=0
+TimestampFolder3=1
 UseOutputName3=0
 OpenODBOutput3=0
-OpenGerberOutput3=0
-OpenNCDrillOutput3=0
+OpenGerberOutput3=1
+OpenNCDrillOutput3=1
 OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=
